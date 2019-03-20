@@ -1,0 +1,21 @@
+{
+  "name": "vue-cli-plugin-cordova-app-version-sync",
+  "version": "1.0.0",
+  "description": "A Vue CLI 3 plugin to sync a cordova app version between package.json and config.xml.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vue",
+    "cordova",
+    "version-checker",
+    "sync"
+  ],
+  "author": "Francisco Enrique Auxach Cortés",
+  "license": "MIT",
+  "dependencies": {
+    "hasbin": "^1.2.3",
+    "xml2json": "^0.11.2"
+  }
+}
