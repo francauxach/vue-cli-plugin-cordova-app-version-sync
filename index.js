@@ -1,3 +1,3 @@
 module.exports = (api, options) => {
-	api.registerCommand('app-version-checker', args => {})
+	api.registerCommand('app-version-sync', args => {})
 }
